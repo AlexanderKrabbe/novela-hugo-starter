@@ -9,6 +9,6 @@ hero: ''
 draft: true
 
 ---
-Hej med dig.
+**Hej med dig.**
 
-Det her er skrevet med stor kærlighed. 
+Det her er skrevet med _stor_ kærlighed.
